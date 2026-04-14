@@ -15,9 +15,9 @@ import java.io.*;
  * Checks arguments and loads/shows View/Controller
  * Parameters passed into Controller to set up Model
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, Johanna Potestas
  */
 public class WordShiftApp extends Application {
     static void main(String[] args) {
