@@ -9,9 +9,9 @@ import java.util.List;
  * <p>
  * Game state for WordShift game (The Model)
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, johanna.potestas@ucalgary.ca
  */
 public class Game {
 

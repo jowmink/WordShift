@@ -10,9 +10,9 @@ package ca.ucalgary.wordshift;
  * None -> guess moved game forward but wasn't the ending word
  * One -> Either guess was correct, or guess was not valid (not alphabetic, not one different, not in dictionary)
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, johanna.potestas@ucalgary.ca
  */
 public class GuessResult {
 

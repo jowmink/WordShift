@@ -8,9 +8,9 @@ package ca.ucalgary.wordshift;
  * Start/End word combinations for WordShift game (The Model interior)
  * NO CHANGES NEEDED
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, johanna.potestas@ucalgary.ca
  */
 public class Challenge {
     /**

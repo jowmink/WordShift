@@ -9,9 +9,9 @@ package ca.ucalgary.wordshift;
  * Takes two words and creates a boolean array indicating which letters were the same or different
  * True means different, false the same
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, johanna.potestas@ucalgary.ca
  */
 public class Differences {
     /**

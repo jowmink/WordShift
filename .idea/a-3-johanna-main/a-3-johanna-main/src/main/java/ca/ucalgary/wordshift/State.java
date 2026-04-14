@@ -10,9 +10,9 @@ import java.util.List;
  * <p>
  * State for WordShift game (The Model interior)
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, Johanna Potestas
  */
 public class State {
 

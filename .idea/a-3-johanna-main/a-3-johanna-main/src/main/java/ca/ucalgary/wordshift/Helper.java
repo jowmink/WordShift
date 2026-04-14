@@ -8,9 +8,9 @@ package ca.ucalgary.wordshift;
  * Static functions for WordShift game (The Model interior)
  * NO CHANGES NEEDED
  *
- * @author Jonathan Hudson
+ * @author Jonathan Hudson, Johanna Potestas
  * @version 1.0
- * @email jwhudson@ucalgary.ca
+ * @email jwhudson@ucalgary.ca, johanna.potestas@ucalgary.ca
  */
 public class Helper {
 
